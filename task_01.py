@@ -8,7 +8,6 @@ import decimal
 ABSOLUTE_DIFFERENCE = decimal.Decimal('273.15')
 
 
-
 def fahrenheit_to_celsius(degrees):
 
     """ a function that convert temperature from fahrenheit to celsius.
